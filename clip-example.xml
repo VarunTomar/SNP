@@ -80,4 +80,21 @@
 		<duration>0</duration>
 		<transcript-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</transcript-text>
 	</record>
+	<record>
+		<category>Clip</category>
+		<title>Clip Title 6</title>
+		<url>http://localhost/clip1.html</url>
+		<course-name>age-progression-in-photoshop</course-name>
+		<author>
+			<id>Christian-jones</id>
+			<first-name>Christian</first-name>
+			<last-name>Jones</last-name>
+			<display-name>Christian Jones</display-name>
+		</author>
+		<module-name>module name 6</module-name>
+		<clip-index>0</clip-index>
+		<duration>0</duration>
+		<transcript-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</transcript-text>
+	</record>
+	
 </records>
